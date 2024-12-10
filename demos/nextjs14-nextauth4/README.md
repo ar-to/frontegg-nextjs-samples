@@ -1,0 +1,1 @@
+Decided not to created this out of lazyness but I did originally in nextjs 14 with nextauth4. The setup of nextauth5 seems simplier but thats it.
