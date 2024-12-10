@@ -1,3 +1,5 @@
+**This demo implements the OCID protocol via the nextauth OAuth2 support. Works well for SSO purposes but its ideally best for internal app, similar to common enterprise purposes. If you want to allow third party apps to authenticate/get authorized to access your IdP then this would be best via SAML. The lift is higher so look for a demo for this or help make one.**
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
