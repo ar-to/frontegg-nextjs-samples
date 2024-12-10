@@ -9,7 +9,7 @@ First, check system versions (tested with below)
 node --version
 v23.1.0
 npm --version
-10.8.2
+10.9.0
 pnpm --version
 9.13.2
 ```
