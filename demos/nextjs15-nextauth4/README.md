@@ -20,6 +20,8 @@ install
 pnpm install
 ```
 
+Copy `.env.sample` as `.env` and add values to env vars.
+
 then, run the development server:
 
 ```bash
